@@ -5,5 +5,5 @@ Link to render=https://f24wb19veeravalli.onrender.com
 - **Class Name**: Instruments
 - **Attributes**:
   - `instrument_name` (String)
-  - `origin` (String)
-  - `age` (Number)
+  - `Type` (String)
+  - `Year Made` (Number)
